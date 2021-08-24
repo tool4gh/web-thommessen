@@ -1,0 +1,45 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="/node_modules/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="/css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="/node_modules/bootstrap/dist/css/bootstrap.css"
+    />
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <title>Thommessen Employee Directory</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-dark bg-primary">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+          <img src="/images/thommessen.png" alt="" />
+        </a>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="input-group input-group-lg mb-3">
+        <span class="input-group-text" id="basic-addon1">Search</span>
+        <input
+          type="text"
+          id="myInput"
+          onkeyup="myFunction()"
+          class="form-control"
+          placeholder="Employee Name"
+          aria-label="name"
+          aria-describedby="basic-addon1"
+        />
+      </div>
+      <ul id="test_ID" class="list-group"></ul>
+    </div>
+    <script src="js/employee.js"></script>
+    <script src="js/search.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+  </body>
+</html>

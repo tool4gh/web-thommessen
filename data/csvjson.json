@@ -1,0 +1,2067 @@
+[
+  {
+    "Navn": "Ole Kristian Dommerud",
+    "Kontornr": "1001 A",
+    "Plan": 10,
+    "avdeling": "IT",
+    "bilde": 1001
+  },
+  {
+    "Navn": "Ole Kristian Syversen",
+    "Kontornr": "1001 B",
+    "Plan": 10,
+    "avdeling": "IT",
+    "bilde": 1001
+  },
+  {
+    "Navn": "Jonathan Bjønnes",
+    "Kontornr": "1001 C",
+    "Plan": 10,
+    "avdeling": "IT",
+    "bilde": 1001
+  },
+  {
+    "Navn": "Nemanja Vujic",
+    "Kontornr": "1001 D",
+    "Plan": 10,
+    "avdeling": "IT",
+    "bilde": 1001
+  },
+  {
+    "Navn": "Espen Simonsen",
+    "Kontornr": "1003 A",
+    "Plan": 10,
+    "avdeling": "IT",
+    "bilde": 1003
+  },
+  {
+    "Navn": "",
+    "Kontornr": "1003 B",
+    "Plan": 10,
+    "avdeling": "IT",
+    "bilde": 1003
+  },
+  {
+    "Navn": "Pensjonister",
+    "Kontornr": "1003 C",
+    "Plan": 10,
+    "avdeling": "Pensjonister",
+    "bilde": 1003
+  },
+  {
+    "Navn": "Emil Holmefjord",
+    "Kontornr": "1003 D",
+    "Plan": 10,
+    "avdeling": "Kontordrift",
+    "bilde": 1003
+  },
+  {
+    "Navn": "Hilde Wiig Nicolaysen",
+    "Kontornr": "1008 A",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1008
+  },
+  {
+    "Navn": "Guro Gjerdrum",
+    "Kontornr": "1008 B",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1008
+  },
+  {
+    "Navn": "Stein Kimsås-Otterbech",
+    "Kontornr": "1008 C",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1008
+  },
+  {
+    "Navn": "Thea Rabe",
+    "Kontornr": "1008 D",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1008
+  },
+  {
+    "Navn": "Oda Nordhus",
+    "Kontornr": "1009 A",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1009
+  },
+  {
+    "Navn": "Ingrid Cathrine Nielsen",
+    "Kontornr": "1009 B",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1009
+  },
+  {
+    "Navn": "Alexandra Refsnes",
+    "Kontornr": "1009 C",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1009
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1009 D",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1009
+  },
+  {
+    "Navn": "Jostein Jenssen",
+    "Kontornr": "1010 A",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1010
+  },
+  {
+    "Navn": "Ida Maria Rudjord",
+    "Kontornr": "1010 B",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1010
+  },
+  {
+    "Navn": "Tron Dalheim",
+    "Kontornr": "1010 C",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1010
+  },
+  {
+    "Navn": "Morten Damm",
+    "Kontornr": "1010 D",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1010
+  },
+  {
+    "Navn": "Vegar Gjertsen",
+    "Kontornr": "1011 A",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1011
+  },
+  {
+    "Navn": "Anders Sundsdal",
+    "Kontornr": "1011 B",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1011
+  },
+  {
+    "Navn": "Hans Jakob Jensvoll",
+    "Kontornr": "1012 A",
+    "Plan": 10,
+    "avdeling": "Arbeidsliv",
+    "bilde": 1012
+  },
+  {
+    "Navn": "Erle Sivertsen",
+    "Kontornr": "1012 B",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1012
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1012 C",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1012
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1012 D",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1012
+  },
+  {
+    "Navn": "Uros Baarlid Tosinovic",
+    "Kontornr": "1016 A",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1016
+  },
+  {
+    "Navn": "Marthe Fremanger Pettersen",
+    "Kontornr": "1016 B",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1016
+  },
+  {
+    "Navn": "Espen Werring",
+    "Kontornr": "1016 C",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1016
+  },
+  {
+    "Navn": "Kjetil Rikardsen",
+    "Kontornr": "1016 D",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1016
+  },
+  {
+    "Navn": "Lene Sommerfelt",
+    "Kontornr": "1017 A",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1017
+  },
+  {
+    "Navn": "Nikolai Rekman",
+    "Kontornr": "1017 B",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1017
+  },
+  {
+    "Navn": "Kristine Margaret Fagerlund",
+    "Kontornr": "1017 C",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1017
+  },
+  {
+    "Navn": "Christopher Sparre-Enger Clausen",
+    "Kontornr": "1017 D",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1017
+  },
+  {
+    "Navn": "Kristian Græsli",
+    "Kontornr": "1018 A",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1018
+  },
+  {
+    "Navn": "Stian Fredrik Karlsen",
+    "Kontornr": "1018 B",
+    "Plan": 10,
+    "avdeling": "Tek",
+    "bilde": 1018
+  },
+  {
+    "Navn": "Stig Berge",
+    "Kontornr": "1028 A",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1028
+  },
+  {
+    "Navn": "Bettina Harto",
+    "Kontornr": "1028 B",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1028
+  },
+  {
+    "Navn": "Karolione Gloppen",
+    "Kontornr": "1028 C",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1028
+  },
+  {
+    "Navn": "Nanette Arvesen",
+    "Kontornr": "1028 D",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1028
+  },
+  {
+    "Navn": "Kristine Bjørnvik",
+    "Kontornr": "1030 A",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1030
+  },
+  {
+    "Navn": "Per-Harald Hirsch",
+    "Kontornr": "1030 B",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1030
+  },
+  {
+    "Navn": "Hedda Rysst",
+    "Kontornr": "1030 C",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1030
+  },
+  {
+    "Navn": "Kristina Heggem",
+    "Kontornr": "1030 D",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1030
+  },
+  {
+    "Navn": "Andreas Meidell",
+    "Kontornr": "1032 A",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1032
+  },
+  {
+    "Navn": "Emilie Gulbrandsen-Dahl",
+    "Kontornr": "1032 B",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1032
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1032 C",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1032
+  },
+  {
+    "Navn": "Henrik Møinichen",
+    "Kontornr": "1032 D",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1032
+  },
+  {
+    "Navn": "Henning Harborg",
+    "Kontornr": "1033 A",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1033
+  },
+  {
+    "Navn": "Lina Ramleth",
+    "Kontornr": "1033 B",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1033
+  },
+  {
+    "Navn": "Per Ole Svor",
+    "Kontornr": "1033 C",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1033
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1033 D",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1033
+  },
+  {
+    "Navn": "Helene Mauritzen",
+    "Kontornr": "1037 A",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1037
+  },
+  {
+    "Navn": "Espen Ostling",
+    "Kontornr": "1037 B",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1037
+  },
+  {
+    "Navn": "Eirik Raanes",
+    "Kontornr": "1039 A",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1039
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1039 B",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1039
+  },
+  {
+    "Navn": "Anders Røyneberg",
+    "Kontornr": "1039 C",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1039
+  },
+  {
+    "Navn": "Lucie Simonsen",
+    "Kontornr": "1039 D",
+    "Plan": 10,
+    "avdeling": "Tvist",
+    "bilde": 1039
+  },
+  {
+    "Navn": "Andreas Øie Brekke",
+    "Kontornr": "1040 A",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1040
+  },
+  {
+    "Navn": "Amalie Pedersen",
+    "Kontornr": "1040 B",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1040
+  },
+  {
+    "Navn": "Tina Leikvoll Flaglien",
+    "Kontornr": "1040 C",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1040
+  },
+  {
+    "Navn": "Julie Rasmussen Solli",
+    "Kontornr": "1040 D",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1040
+  },
+  {
+    "Navn": "Camilla Vislie",
+    "Kontornr": "1041 A",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1041
+  },
+  {
+    "Navn": "Nora Bjørnnes",
+    "Kontornr": "1041 B",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1041
+  },
+  {
+    "Navn": "Magnus Hauge Greaker",
+    "Kontornr": "1044 A",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1044
+  },
+  {
+    "Navn": "Charlotte Høgnes",
+    "Kontornr": "1044 B",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1044
+  },
+  {
+    "Navn": "Fjernes",
+    "Kontornr": "1044 C",
+    "Plan": 10,
+    "avdeling": "Fjernes",
+    "bilde": 1044
+  },
+  {
+    "Navn": "Andreas Stabell",
+    "Kontornr": "1045 A",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1045
+  },
+  {
+    "Navn": "Anna Øygarden",
+    "Kontornr": "1045 B",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1045
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1045 C",
+    "Plan": 10,
+    "avdeling": "IMM",
+    "bilde": 1045
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1045 D",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1045
+  },
+  {
+    "Navn": "Mads Haavardsholm",
+    "Kontornr": "1046 A",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1046
+  },
+  {
+    "Navn": "Christian Hals",
+    "Kontornr": "1046 B",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1046
+  },
+  {
+    "Navn": "Simen Gundersen",
+    "Kontornr": "1046 C",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1046
+  },
+  {
+    "Navn": "Kjetil Røyneberg",
+    "Kontornr": "1046 D",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1046
+  },
+  {
+    "Navn": "Ellen Marstad",
+    "Kontornr": "1051 A",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1051
+  },
+  {
+    "Navn": "Henrik Hagberg",
+    "Kontornr": "1051 B",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1051
+  },
+  {
+    "Navn": "Sam Kristiansen",
+    "Kontornr": "1053 A",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1053
+  },
+  {
+    "Navn": "Ingrid Skjeldmo",
+    "Kontornr": "1053 B",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1053
+  },
+  {
+    "Navn": "Sofie Tyvenko",
+    "Kontornr": "1053 C",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1053
+  },
+  {
+    "Navn": "Elise Grepsly",
+    "Kontornr": "1053 D",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1053
+  },
+  {
+    "Navn": "Sander Eike",
+    "Kontornr": "1054 A",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1054
+  },
+  {
+    "Navn": "Pål Lieungh",
+    "Kontornr": "1054 B",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1054
+  },
+  {
+    "Navn": "Stine Woxmyr",
+    "Kontornr": "1054 C",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1054
+  },
+  {
+    "Navn": "Susanne Stray-Pedersen",
+    "Kontornr": "1054 D",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1054
+  },
+  {
+    "Navn": "Jacob Bull",
+    "Kontornr": "1061 A",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1061
+  },
+  {
+    "Navn": "Alexander Stulien",
+    "Kontornr": "1061 B",
+    "Plan": 10,
+    "avdeling": "Ocean",
+    "bilde": 1061
+  },
+  {
+    "Navn": "Henrik Torgrimsby",
+    "Kontornr": "1062 A",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1062
+  },
+  {
+    "Navn": "Mari Andrea Moland",
+    "Kontornr": "1062 B",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1062
+  },
+  {
+    "Navn": "Fredrik  Svartberg Tonholt",
+    "Kontornr": "1062 C",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1062
+  },
+  {
+    "Navn": "Alexander Martinsen",
+    "Kontornr": "1062 D",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1062
+  },
+  {
+    "Navn": "Marte Tingstad",
+    "Kontornr": "1063 A",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1063
+  },
+  {
+    "Navn": "Julie Ameln",
+    "Kontornr": "1063 B",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1063
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1063 C",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1063
+  },
+  {
+    "Navn": "Kine Irgens",
+    "Kontornr": "1063 D",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1063
+  },
+  {
+    "Navn": "Bendik Christoffersen",
+    "Kontornr": "1069 A",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1069
+  },
+  {
+    "Navn": "Kai-Ståle Kristiansen",
+    "Kontornr": "1069 B",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1069
+  },
+  {
+    "Navn": "Charlotte Heberg Trondal",
+    "Kontornr": "1070 A",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1070
+  },
+  {
+    "Navn": "Gunnar Martinsen",
+    "Kontornr": "1070 B",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1070
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1070 C",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1070
+  },
+  {
+    "Navn": "Ole Christoffer Ellingsen",
+    "Kontornr": "1070 D",
+    "Plan": 10,
+    "avdeling": "Fornybar",
+    "bilde": 1070
+  },
+  {
+    "Navn": "Eivind Sæveraas",
+    "Kontornr": "1071 A",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1071
+  },
+  {
+    "Navn": "Heidi Jorkjend",
+    "Kontornr": "1071 B",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1071
+  },
+  {
+    "Navn": "Eivind Vesterkjær",
+    "Kontornr": "1071 C",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1071
+  },
+  {
+    "Navn": "Siri Teigum",
+    "Kontornr": "1071 D",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1071
+  },
+  {
+    "Navn": "Karen Gildberg",
+    "Kontornr": "1072 A",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1072
+  },
+  {
+    "Navn": "Mari Gjefsen",
+    "Kontornr": "1072 B",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1072
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1072 C",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1072
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1072 D",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1072
+  },
+  {
+    "Navn": "Kristoffer Grøndal",
+    "Kontornr": "1073 A",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1073
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1073 B",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1073
+  },
+  {
+    "Navn": "Elen Botten",
+    "Kontornr": "1073 C",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1073
+  },
+  {
+    "Navn": "Inger Clem",
+    "Kontornr": "1073 D",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1073
+  },
+  {
+    "Navn": "Navjot Kaur",
+    "Kontornr": "1074 A",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1074
+  },
+  {
+    "Navn": "Nora Loven",
+    "Kontornr": "1074 B",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1074
+  },
+  {
+    "Navn": "Trine Siri Dahl",
+    "Kontornr": "1074 C",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1074
+  },
+  {
+    "Navn": "Karen Johanne Nordby",
+    "Kontornr": "1074 D",
+    "Plan": 10,
+    "avdeling": "EU",
+    "bilde": 1074
+  },
+  {
+    "Navn": "Jo Rodin",
+    "Kontornr": "1100 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1100
+  },
+  {
+    "Navn": "Ola Åbråthen",
+    "Kontornr": "1100 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1100
+  },
+  {
+    "Navn": "Elise Klausen Jenssen",
+    "Kontornr": "1100 C",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1100
+  },
+  {
+    "Navn": "Andreas Torp-Holte",
+    "Kontornr": "1100 D",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1100
+  },
+  {
+    "Navn": "Morten Emil Bergan",
+    "Kontornr": "1102 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1102
+  },
+  {
+    "Navn": "Kristian Magnus Svor",
+    "Kontornr": "1102 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1102
+  },
+  {
+    "Navn": "Kristin Aas Sviland",
+    "Kontornr": "1102 C",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1102
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1102 D",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1102
+  },
+  {
+    "Navn": "Erik Bakke",
+    "Kontornr": "1104 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1104
+  },
+  {
+    "Navn": "Hans Haugstad",
+    "Kontornr": "1104 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1104
+  },
+  {
+    "Navn": "Hallvard Schulstad",
+    "Kontornr": "1104 C",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1104
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1104 D",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1104
+  },
+  {
+    "Navn": "Einar Grette",
+    "Kontornr": "1109 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1109
+  },
+  {
+    "Navn": "Hedda Leikvang",
+    "Kontornr": "1109 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1109
+  },
+  {
+    "Navn": "Marte Hafnor",
+    "Kontornr": "1109 C",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1109
+  },
+  {
+    "Navn": "Susanne Eieland",
+    "Kontornr": "1109 D",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1109
+  },
+  {
+    "Navn": "Maria Aguillera",
+    "Kontornr": "1110 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1110
+  },
+  {
+    "Navn": "Frida Stene-Slotte",
+    "Kontornr": "1110 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1110
+  },
+  {
+    "Navn": "Carl T Gustavsson",
+    "Kontornr": "1110 C",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1110
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1110 D",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1110
+  },
+  {
+    "Navn": "Torbjørn Bjelland",
+    "Kontornr": "1111 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1111
+  },
+  {
+    "Navn": "Heidi Dillevig",
+    "Kontornr": "1111 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1111
+  },
+  {
+    "Navn": "Anna Engh",
+    "Kontornr": "1111 C",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1111
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1111 D",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1111
+  },
+  {
+    "Navn": "Mats Høllesli",
+    "Kontornr": "1112 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1112
+  },
+  {
+    "Navn": "Halvor Mansåker",
+    "Kontornr": "1112 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1112
+  },
+  {
+    "Navn": "Ellen Hyerdahl",
+    "Kontornr": "1113 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1113
+  },
+  {
+    "Navn": "Pernille Skaug",
+    "Kontornr": "1113 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1113
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1113 C",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1113
+  },
+  {
+    "Navn": "Sander Danielsen",
+    "Kontornr": "1113 D",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1113
+  },
+  {
+    "Navn": "Faraz Ahmend Ali",
+    "Kontornr": "1117 A",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1117
+  },
+  {
+    "Navn": "Kristoffer Hegdahl",
+    "Kontornr": "1117 B",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1117
+  },
+  {
+    "Navn": "Gunnhild Rokne Altenau",
+    "Kontornr": "1117 C",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1117
+  },
+  {
+    "Navn": "Øyvind Dehli",
+    "Kontornr": "1117 D",
+    "Plan": 11,
+    "avdeling": "BFIR",
+    "bilde": 1117
+  },
+  {
+    "Navn": "Ellen Marie Østerdal",
+    "Kontornr": "1118 A",
+    "Plan": 11,
+    "avdeling": "Assistent",
+    "bilde": 1118
+  },
+  {
+    "Navn": "Ellen Margrete Gregersen",
+    "Kontornr": "1118 B",
+    "Plan": 11,
+    "avdeling": "Assistent",
+    "bilde": 1118
+  },
+  {
+    "Navn": "Kveldsassistent",
+    "Kontornr": "1118 C",
+    "Plan": 11,
+    "avdeling": "Assistent",
+    "bilde": 1118
+  },
+  {
+    "Navn": "Anette Dale",
+    "Kontornr": "1118 D",
+    "Plan": 11,
+    "avdeling": "Assistent",
+    "bilde": 1118
+  },
+  {
+    "Navn": "Yvonne Prytz",
+    "Kontornr": "1119 A",
+    "Plan": 11,
+    "avdeling": "Assistent",
+    "bilde": 1119
+  },
+  {
+    "Navn": "Renate Brestad",
+    "Kontornr": "1119 B",
+    "Plan": 11,
+    "avdeling": "Assistent",
+    "bilde": 1119
+  },
+  {
+    "Navn": "Anders Arnkværn",
+    "Kontornr": "1129 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1129
+  },
+  {
+    "Navn": "Katinka Randberg",
+    "Kontornr": "1129 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1129
+  },
+  {
+    "Navn": "Andreas Steinbakk-Olsen",
+    "Kontornr": "1129 C",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1129
+  },
+  {
+    "Navn": "Ravna Søvde",
+    "Kontornr": "1129 D",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1129
+  },
+  {
+    "Navn": "Stian Slaatta",
+    "Kontornr": "1132 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1132
+  },
+  {
+    "Navn": "Andrea Teigland",
+    "Kontornr": "1132 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1132
+  },
+  {
+    "Navn": "Emilie Haakestad",
+    "Kontornr": "1132 C",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1132
+  },
+  {
+    "Navn": "Jenny Gamborg Nygård",
+    "Kontornr": "1132 D",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1132
+  },
+  {
+    "Navn": "Ylva Gjesdahl Petersen",
+    "Kontornr": "1133 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1133
+  },
+  {
+    "Navn": "Vivi Quan",
+    "Kontornr": "1133 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1133
+  },
+  {
+    "Navn": "Jasmin Jakobsen",
+    "Kontornr": "1133 C",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1133
+  },
+  {
+    "Navn": "Elen",
+    "Kontornr": "1133 D",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1133
+  },
+  {
+    "Navn": "Hasse Arnesen",
+    "Kontornr": "1134 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1134
+  },
+  {
+    "Navn": "Linn Andrea Nordhus",
+    "Kontornr": "1134 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1134
+  },
+  {
+    "Navn": "Espen Kanstad",
+    "Kontornr": "1134 C",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1134
+  },
+  {
+    "Navn": "Kristian Ulriksen",
+    "Kontornr": "1134 D",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1134
+  },
+  {
+    "Navn": "Lena von Hirsch",
+    "Kontornr": "1138 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1138
+  },
+  {
+    "Navn": "Øyvind Mork Karlsen",
+    "Kontornr": "1138 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1138
+  },
+  {
+    "Navn": "Petter Erik Melsom",
+    "Kontornr": "1140 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1140
+  },
+  {
+    "Navn": "Morten Lindstad",
+    "Kontornr": "1140 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1140
+  },
+  {
+    "Navn": "Nora Holth Aas",
+    "Kontornr": "1140 C",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1140
+  },
+  {
+    "Navn": "Kristin Leistad",
+    "Kontornr": "1140 D",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1140
+  },
+  {
+    "Navn": "Ervin Auren",
+    "Kontornr": "1141 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1141
+  },
+  {
+    "Navn": "Nicoalai Julsvoll",
+    "Kontornr": "1141 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1141
+  },
+  {
+    "Navn": "Kristian Sandvold Hansen",
+    "Kontornr": "1141 C",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1141
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1141 D",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1141
+  },
+  {
+    "Navn": "Saman Kahn",
+    "Kontornr": "1142 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1142
+  },
+  {
+    "Navn": "Thea Hatland",
+    "Kontornr": "1142 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1142
+  },
+  {
+    "Navn": "Solveig Bugge",
+    "Kontornr": "1144 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1144
+  },
+  {
+    "Navn": "Mathilde Østerud",
+    "Kontornr": "1144 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1144
+  },
+  {
+    "Navn": "Christian Sagstad",
+    "Kontornr": "1145 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1145
+  },
+  {
+    "Navn": "Emil Dragvold",
+    "Kontornr": "1145 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1145
+  },
+  {
+    "Navn": "Fjernes",
+    "Kontornr": "1145 C",
+    "Plan": 11,
+    "avdeling": "Fjernes",
+    "bilde": 1145
+  },
+  {
+    "Navn": "Jimmy Nordberg",
+    "Kontornr": "1146 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1146
+  },
+  {
+    "Navn": "Bendik  Eckbo",
+    "Kontornr": "1146 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1146
+  },
+  {
+    "Navn": "Christian Gusland",
+    "Kontornr": "1146 C",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1146
+  },
+  {
+    "Navn": "Lars Petter Kveinå",
+    "Kontornr": "1146 D",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1146
+  },
+  {
+    "Navn": "Elias Kjelløkken",
+    "Kontornr": "1147 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1147
+  },
+  {
+    "Navn": "Bianca Brattsberg",
+    "Kontornr": "1147 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1147
+  },
+  {
+    "Navn": "Martin Mjaaland",
+    "Kontornr": "1147 C",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1147
+  },
+  {
+    "Navn": "Ole Christian Muggerud",
+    "Kontornr": "1147 D",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1147
+  },
+  {
+    "Navn": "Baard Bale",
+    "Kontornr": "1152 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1152
+  },
+  {
+    "Navn": "Lars Martin Sveen",
+    "Kontornr": "1152 B",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1152
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1154 A",
+    "Plan": 11,
+    "avdeling": "M&A",
+    "bilde": 1154
+  },
+  {
+    "Navn": "Markus Kjelløkken",
+    "Kontornr": "1154 B",
+    "Plan": 11,
+    "avdeling": "FinReg",
+    "bilde": 1154
+  },
+  {
+    "Navn": "Jørgen Keiserud",
+    "Kontornr": "1154 C",
+    "Plan": 11,
+    "avdeling": "FinReg",
+    "bilde": 1154
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1154 D",
+    "Plan": 11,
+    "avdeling": "FinReg",
+    "bilde": 1154
+  },
+  {
+    "Navn": "Anette Dale",
+    "Kontornr": 1156,
+    "Plan": 11,
+    "avdeling": "Pritsenter",
+    "bilde": 1156
+  },
+  {
+    "Navn": "Ingrid Solum",
+    "Kontornr": "1157 A",
+    "Plan": 11,
+    "avdeling": "FinReg",
+    "bilde": 1157
+  },
+  {
+    "Navn": "Tore Mydske",
+    "Kontornr": "1157 B",
+    "Plan": 11,
+    "avdeling": "FinReg",
+    "bilde": 1157
+  },
+  {
+    "Navn": "Vilde Ødegård",
+    "Kontornr": "1157 C",
+    "Plan": 11,
+    "avdeling": "FinReg",
+    "bilde": 1157
+  },
+  {
+    "Navn": "Knut Olav Bydal",
+    "Kontornr": "1157 D",
+    "Plan": 11,
+    "avdeling": "FinReg",
+    "bilde": 1157
+  },
+  {
+    "Navn": "Marius Holm Rynning",
+    "Kontornr": "1161 A",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1161
+  },
+  {
+    "Navn": "Louise Eriksen",
+    "Kontornr": "1161 B",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1161
+  },
+  {
+    "Navn": "Mia Beckholt",
+    "Kontornr": "1162 A",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1162
+  },
+  {
+    "Navn": "Jørgen Adde",
+    "Kontornr": "1162 B",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1162
+  },
+  {
+    "Navn": "Håkon Nesss Ødegården",
+    "Kontornr": "1162 C",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1162
+  },
+  {
+    "Navn": "Ola Krogdahl",
+    "Kontornr": "1162 D",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1162
+  },
+  {
+    "Navn": "Thale Espeli",
+    "Kontornr": "1163 A",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1163
+  },
+  {
+    "Navn": "Finn Backer-Grøndahl",
+    "Kontornr": "1163 B",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1163
+  },
+  {
+    "Navn": "Marcus Liavaag",
+    "Kontornr": "1163 C",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1163
+  },
+  {
+    "Navn": "Marie Narum",
+    "Kontornr": "1163 D",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1163
+  },
+  {
+    "Navn": "Ståle Kristiansen",
+    "Kontornr": "1169 A",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1169
+  },
+  {
+    "Navn": "Martine Persen",
+    "Kontornr": "1169 B",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1169
+  },
+  {
+    "Navn": "Live Lindemark",
+    "Kontornr": "1170 A",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1170
+  },
+  {
+    "Navn": "Sigbjørn Vaale Arnesen",
+    "Kontornr": "1170 B",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1170
+  },
+  {
+    "Navn": "Sondre Elvebakk",
+    "Kontornr": "1170 C",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1170
+  },
+  {
+    "Navn": "Marnie Jeffries",
+    "Kontornr": "1170 D",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1170
+  },
+  {
+    "Navn": "Bjørn Christian Tovsen",
+    "Kontornr": "1171 A",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1171
+  },
+  {
+    "Navn": "Caroline Svelland Hauge",
+    "Kontornr": "1171 B",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1171
+  },
+  {
+    "Navn": "Kristian Rytter",
+    "Kontornr": "1171 C",
+    "Plan": 11,
+    "avdeling": "Skatt",
+    "bilde": 1171
+  },
+  {
+    "Navn": "Christian Müller",
+    "Kontornr": "1171 D",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1171
+  },
+  {
+    "Navn": "Jenny T Moe",
+    "Kontornr": "1172 A",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1172
+  },
+  {
+    "Navn": "Rolf Nyhus",
+    "Kontornr": "1172 B",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1172
+  },
+  {
+    "Navn": "Even Bratsberg",
+    "Kontornr": "1172 C",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1172
+  },
+  {
+    "Navn": "Eirin Tinnesand",
+    "Kontornr": "1172 D",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1172
+  },
+  {
+    "Navn": "Simon Ulleland",
+    "Kontornr": "1173 A",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1173
+  },
+  {
+    "Navn": "Reidar Myhre",
+    "Kontornr": "1173 B",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1173
+  },
+  {
+    "Navn": "Karoline Græsvig",
+    "Kontornr": "1173 C",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1173
+  },
+  {
+    "Navn": "Trainee",
+    "Kontornr": "1173 D",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1173
+  },
+  {
+    "Navn": "Silje Haagensen",
+    "Kontornr": "1174 A",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1174
+  },
+  {
+    "Navn": "Chris Borch",
+    "Kontornr": "1174 B",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1174
+  },
+  {
+    "Navn": "Jeanine Greve",
+    "Kontornr": "1174 C",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1174
+  },
+  {
+    "Navn": "Mette Borger Fyksen",
+    "Kontornr": "1174 D",
+    "Plan": 11,
+    "avdeling": "Næringseiendom",
+    "bilde": 1174
+  },
+  {
+    "Navn": "Espen Dybdalen Nilssen",
+    "Kontornr": "1200 A",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1200
+  },
+  {
+    "Navn": "Mirella Gullaksen",
+    "Kontornr": "1200 B",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1200
+  },
+  {
+    "Navn": "Hans Ola Hevrøy",
+    "Kontornr": "1200 C",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1200
+  },
+  {
+    "Navn": "Marthe Kaasa Færø",
+    "Kontornr": "1200 D",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1200
+  },
+  {
+    "Navn": "Hanne Borgen Kristensen",
+    "Kontornr": "1202 A",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1202
+  },
+  {
+    "Navn": "Anne-Marthe Arnulf",
+    "Kontornr": "1202 B",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1202
+  },
+  {
+    "Navn": "Thea Wilhelmine Jørgensen",
+    "Kontornr": "1202 C",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1202
+  },
+  {
+    "Navn": "Fay Birgitte Wiese",
+    "Kontornr": "1202 D",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1202
+  },
+  {
+    "Navn": "Line Thiis-Gundersen",
+    "Kontornr": "1204 A",
+    "Plan": 12,
+    "avdeling": "MarKom",
+    "bilde": 1204
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1204 B",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1204
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1204 C",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1204
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1204 D",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1204
+  },
+  {
+    "Navn": "Nina Bellos",
+    "Kontornr": "1209 A",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1209
+  },
+  {
+    "Navn": "Mette Kristensen",
+    "Kontornr": "1209 B",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1209
+  },
+  {
+    "Navn": "Audun Ohnstad",
+    "Kontornr": "1209 C",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1209
+  },
+  {
+    "Navn": "Cecilie Solberg",
+    "Kontornr": "1209 D",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1209
+  },
+  {
+    "Navn": "Anne Cross",
+    "Kontornr": "1210 A",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1210
+  },
+  {
+    "Navn": "Hilde Markussen",
+    "Kontornr": "1210 B",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1210
+  },
+  {
+    "Navn": "Lin Cicilie Byermoen",
+    "Kontornr": "1210 C",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1210
+  },
+  {
+    "Navn": "Tone Pedersen",
+    "Kontornr": "1210 D",
+    "Plan": 12,
+    "avdeling": "Økonmi",
+    "bilde": 1210
+  },
+  {
+    "Navn": "Bente Sundvoll",
+    "Kontornr": "1211 A",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1211
+  },
+  {
+    "Navn": "Malene Stage",
+    "Kontornr": "1211 B",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1211
+  },
+  {
+    "Navn": "BDO/Student",
+    "Kontornr": "1211 C",
+    "Plan": 12,
+    "avdeling": "Økonomi",
+    "bilde": 1211
+  },
+  {
+    "Navn": "Kveldsassistent/Ny medarbeider",
+    "Kontornr": "1211 D",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1211
+  },
+  {
+    "Navn": "Elisabeth Lund",
+    "Kontornr": "1212 A",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1212
+  },
+  {
+    "Navn": "Kristina Turkalj",
+    "Kontornr": "1212 B",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1212
+  },
+  {
+    "Navn": "Elisabeth Swan Lund",
+    "Kontornr": "1212 C",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1212
+  },
+  {
+    "Navn": "Cathrine Riven",
+    "Kontornr": "1212 D",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1212
+  },
+  {
+    "Navn": "Dana Medin",
+    "Kontornr": "1217 A",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1217
+  },
+  {
+    "Navn": "Kirsti Nyborg",
+    "Kontornr": "1217 B",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1217
+  },
+  {
+    "Navn": "Trude Mette Gulbrandsen",
+    "Kontornr": "1217 C",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1217
+  },
+  {
+    "Navn": "Marianne Korgerud Tveit",
+    "Kontornr": "1217 D",
+    "Plan": 12,
+    "avdeling": "Assistent",
+    "bilde": 1217
+  },
+  {
+    "Navn": "Grethe Wiborg",
+    "Kontornr": "1218 A",
+    "Plan": 12,
+    "avdeling": "HR",
+    "bilde": 1218
+  },
+  {
+    "Navn": "Helene Nylende Sørlie",
+    "Kontornr": "1218 B",
+    "Plan": 12,
+    "avdeling": "HR",
+    "bilde": 1218
+  },
+  {
+    "Navn": "Julie Røed Søyland",
+    "Kontornr": "1218 C",
+    "Plan": 12,
+    "avdeling": "HR",
+    "bilde": 1218
+  },
+  {
+    "Navn": "Helle Sandberg",
+    "Kontornr": "1218 D",
+    "Plan": 12,
+    "avdeling": "HR",
+    "bilde": 1218
+  },
+  {
+    "Navn": "Anne Bogen",
+    "Kontornr": "1219 A",
+    "Plan": 12,
+    "avdeling": "HR",
+    "bilde": 1219
+  },
+  {
+    "Navn": "Sverre Tyrhaug",
+    "Kontornr": "1219 B",
+    "Plan": 12,
+    "avdeling": "MP",
+    "bilde": 1219
+  },
+  {
+    "Navn": "Marianne Skibnes",
+    "Kontornr": 1225,
+    "Plan": 12,
+    "avdeling": "Bibliotek",
+    "bilde": 1225
+  },
+  {
+    "Navn": "Bud",
+    "Kontornr": 1226,
+    "Plan": 12,
+    "avdeling": "Budkontor",
+    "bilde": 1226
+  },
+  {
+    "Navn": "Grete Stubberud",
+    "Kontornr": "1228 A",
+    "Plan": 12,
+    "avdeling": "Servicesenter",
+    "bilde": 1228
+  },
+  {
+    "Navn": "Annelise Winger",
+    "Kontornr": "1228 B",
+    "Plan": 12,
+    "avdeling": "Servicesenter",
+    "bilde": 1228
+  },
+  {
+    "Navn": "Ingrid Seim",
+    "Kontornr": "1233 A",
+    "Plan": 12,
+    "avdeling": "Start-up lab",
+    "bilde": 1233
+  },
+  {
+    "Navn": "Vetle Ufsvatn",
+    "Kontornr": "1233 B",
+    "Plan": 12,
+    "avdeling": "Start-up lab",
+    "bilde": 1233
+  },
+  {
+    "Navn": "",
+    "Kontornr": "1233 C",
+    "Plan": 12,
+    "avdeling": "Start-up lab",
+    "bilde": 1233
+  },
+  {
+    "Navn": "",
+    "Kontornr": "1233 D",
+    "Plan": 12,
+    "avdeling": "Start-up lab",
+    "bilde": 1233
+  },
+  {
+    "Navn": "Hege Sollie Johansen",
+    "Kontornr": "1235 A",
+    "Plan": 12,
+    "avdeling": "I&U",
+    "bilde": 1235
+  },
+  {
+    "Navn": "Trine Cecilie Woldsdahl",
+    "Kontornr": "1235 B",
+    "Plan": 12,
+    "avdeling": "I&U",
+    "bilde": 1235
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1235 C",
+    "Plan": 12,
+    "avdeling": "I&U",
+    "bilde": 1235
+  },
+  {
+    "Navn": "Ledig",
+    "Kontornr": "1235 D",
+    "Plan": 12,
+    "avdeling": "I&U",
+    "bilde": 1235
+  },
+  {
+    "Navn": "Paul Vik",
+    "Kontornr": "1236 A",
+    "Plan": 12,
+    "avdeling": "I&U",
+    "bilde": 1236
+  },
+  {
+    "Navn": "Sigri Aas",
+    "Kontornr": "1236 B",
+    "Plan": 12,
+    "avdeling": "I&U",
+    "bilde": 1236
+  },
+  {
+    "Navn": "Philip Linkaas",
+    "Kontornr": "1236 C",
+    "Plan": 12,
+    "avdeling": "I&U",
+    "bilde": 1236
+  },
+  {
+    "Navn": "Trine Melsether",
+    "Kontornr": "1236 D",
+    "Plan": 12,
+    "avdeling": "I&U",
+    "bilde": 1236
+  }
+]

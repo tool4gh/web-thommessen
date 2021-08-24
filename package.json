@@ -1,0 +1,29 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tool4gh/thommessen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tool4gh/thommessen/issues"
+  },
+  "homepage": "https://github.com/tool4gh/thommessen#readme",
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "bootstrap": "^5.1.0",
+    "jquery": "^3.6.0",
+    "parcel": "^2.0.0-rc.0"
+  },
+  "devDependencies": {
+    "cssnano": "^5.0.8",
+    "postcss": "^8.3.6"
+  }
+}
